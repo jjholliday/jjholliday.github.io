@@ -10,4 +10,4 @@ citation: 'Holliday, J. J. (2013). The acoustic realization of the Korean sibila
 ---
 This paper presents an acoustic analysis of the sibilant fricative productions of speakers in their 20s from Seoul and Daegu. It is often claimed that the tense Korean fricative /s*/ is realized as an unaspirated fricative /s/ in Gyeongsang varieties, but I did not find any evidence to support this claim. The speakers from Daegu made just as clear a contrast as the speakers from Seoul did.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Holliday 2012 (JKSSS).pdf)
