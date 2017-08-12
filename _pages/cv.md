@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BS Accounting (minor: Japanese), The Ohio State University, 2003
+* MA Linguistics, The Ohio State University, 2011
+* PhD Linguistics, The Ohio State University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2015 to present: Korea University
+  * Assistant Professor, Department of Korean Language and Literature
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2012 to May 2015: Indiana University Bloomington
+  * Post-doctoral Fellow, Department of Second Language Studies
   
 Skills
 ======
