@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeff Holliday"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-#This is the front page of a website that is powered by the [academicpages template (https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello. I am an assistant professor in the Department of Korean Language and Literature at Korea University, in Seoul, South Korea. I received my PhD from the Department of Linguistics at the Ohio State University in June 2012. From August 2012 until May 2015 I was a post-doctoral fellow in the Department of Second Language Studies at Indiana University Bloomington.
+
+My broad research interests are laboratory phonology, language acquisition, and Korean. More specifically, I work a lot on sibilant fricatives (in English and East Asian languages), the acquisition of phonological contrasts (both L1 and L2), and sociophonetics (Korean dialects in particular).
+
+안녕하세요? 
 
 A data-driven personal website
 ======
