@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BS Accounting (minor: Japanese), The Ohio State University, 2003
+* BS Accounting (minor in Japanese), The Ohio State University, 2003
 * MA Linguistics, The Ohio State University, 2011
 * PhD Linguistics, The Ohio State University, 2012
 
@@ -40,7 +40,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* To be filled in
