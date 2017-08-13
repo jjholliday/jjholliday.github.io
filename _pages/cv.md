@@ -15,7 +15,7 @@ Education
 * MA Linguistics, The Ohio State University, 2011
 * PhD Linguistics, The Ohio State University, 2012
 
-Work experience
+Employment
 ======
 * September 2015 to present: Korea University
   * Assistant Professor, Department of Korean Language and Literature
