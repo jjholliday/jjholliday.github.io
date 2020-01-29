@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Department of Korean Language and Literature at Korea University, in Seoul, South Korea. Before coming to my current position in 2015, I worked for three years as a post-doctoral fellow in the Department of Second Language Studies at Indiana University Bloomington. I received my PhD in 2012 from the Department of Linguistics at the Ohio State University. under the supervision of [Mary Beckman](https://www.asc.ohio-state.edu/beckman.2/).
+I am an assistant professor in the Department of Korean Language and Literature at Korea University, in Seoul, South Korea. Before coming to my current position in 2015, I worked for three years as a post-doctoral fellow in the Department of Second Language Studies at Indiana University Bloomington. I received my PhD in 2012 from the Department of Linguistics at the Ohio State University under the supervision of [Mary Beckman](https://www.asc.ohio-state.edu/beckman.2/).
 
 These days my research has two main threads. My original interest has always been second language phonological acquisition, with a (perhaps obvious) focus on learners of Korean. In my dissertation I investigated the perception and acquisition of the notoriously difficult Korean sibilant fricative contrast by native speakers of Japanese and Mandarin Chinese. In more recent years, especially in collaboration with my students, I have been doing more research on the acquisition of the Korean three-way laryngeal contrast.
 
