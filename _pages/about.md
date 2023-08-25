@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phonetician interested in how linguistic experience shapes speech perception and production, with a focus on the domains of second language acquisition and sociolinguistic variation. I am currently an assistant professor in the [Department of Linguistics](https://linguistics.ku.edu/) at the University of Kansas: [ɹɑk̚ ʧʰɔk̚ ʤeɪhɔk̚]! I also serve as an associate editor at [Second Language Research](https://journals.sagepub.com/home/slr).
+I am a phonetician interested in how linguistic experience shapes speech perception and production, with a focus on the domains of second language acquisition and sociolinguistic variation. I am currently an assistant professor in the [Department of Linguistics](https://linguistics.ku.edu/) at the University of Kansas. [ɹɑk̚ ʧʰɔk̚ ʤeɪhɔk̚]! I also serve as an associate editor at [Second Language Research](https://journals.sagepub.com/home/slr).
 
 In the area of second language acquisition, I have worked primarily on the acquisition of segmental contrasts by learners of Korean. In my dissertation I investigated the perception and acquisition of the Korean sibilant fricative contrast by L1 speakers of Japanese and Mandarin Chinese. In more recent years, especially in collaboration with my students, I have been doing more research on the acquisition of the Korean three-way stop laryngeal contrast. Broadly, I am interested in the different factors that influence how learners learn to attend to and manipulate new acoustic cues (as in the aspiration in the sibilant fricative contrast), and also figure out how to use familiar cues in new ways (as in VOT and f0 in the three-way stop contrast).
 
