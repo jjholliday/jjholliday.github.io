@@ -17,4 +17,4 @@ My other main area of research is sociophonetics. I first became interested in K
 Before coming to my Kansas, I worked for eight years in the [Department of Korean Language and Literature](https://lib001.korea.ac.kr/lib001/index.do) at Korea University, in Seoul. Before that I worked for three years as a post-doctoral fellow in the [Department of Second Language Studies](https://dsls.indiana.edu/) at Indiana University Bloomington, where I was affiliated with the [Second Language Psycholinguistics Lab](https://psycholinguistics.indiana.edu/home.htm), directed by [Isabelle Darcy](https://dsls.indiana.edu/about/faculty/darcy-isabelle.html). And before that, I received my PhD in 2012 from the [Department of Linguistics](https://linguistics.osu.edu/) at the Ohio State University under the supervision of [Mary Beckman](https://linguistics.osu.edu/people/beckman.2).
 
 
-[CV](http://jjholliday.github.io/files/cv-holliday-july2025.pdf)
+[CV](http://jjholliday.github.io/files/cv-holliday-dec2025.pdf)
