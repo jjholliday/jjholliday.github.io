@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download pdf](http://jjholliday.github.io/files/cv-holliday-dec2025.pdf)
+[Download CV](http://jjholliday.github.io/files/cv-holliday-august2026.pdf)
